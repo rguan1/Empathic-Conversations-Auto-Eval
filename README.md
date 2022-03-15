@@ -4,7 +4,7 @@
 ## Getting Started
 
 ### Configuration
-1. Download the 4 models and the MultiLabelBinarizer file `mlb.pkl` from this [link](https://drive.google.com/drive/folders/1rVQAmFbHWrc7P5ccEDZ0moiaZIUiOSwM?usp=sharing)
+1. Download the 4 models and the MultiLabelBinarizer file `mlb.pkl` from this [link](https://drive.google.com/drive/folders/1rVQAmFbHWrc7P5ccEDZ0moiaZIUiOSwM?usp=sharing). Use [gdown](https://github.com/wkentaro/gdown) if you are trying to download to a remote instance via terminal.
 2. Place the models inside of the `models` directory and unzip.
 
 ### How to evaluate
