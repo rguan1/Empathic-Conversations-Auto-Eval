@@ -66,10 +66,10 @@ def evaluate_utterances(utterances, csv_name):
     PREFIX_PATH = os.path.join(os.path.dirname(__file__), './models')
     
     da_path = f"{PREFIX_PATH}/dialog_acts_roberta_20_epoch" 
-    empathy_path = f"{PREFIX_PATH}/empathy/fully_trained_roberta"
-    emotion_path = f"{PREFIX_PATH}/emotion/run_1"
-    emotionalpolarity_path =  f"{PREFIX_PATH}/emotionalpolarity/test1"
-    selfdisclosure_path = f"{PREFIX_PATH}/selfdisclosure/run_1"
+    empathy_path = f"{PREFIX_PATH}/empathy/model"
+    emotion_path = f"{PREFIX_PATH}/emotion/model"
+    emotionalpolarity_path =  f"{PREFIX_PATH}/emotionalpolarity/model"
+    selfdisclosure_path = f"{PREFIX_PATH}/selfdisclosure/model"
     
     utt_list = utterances
 
