@@ -1,4 +1,4 @@
-# auto_eval_chats
+# Empathic Conversations Auto Eval
 
 
 ## Getting Started
